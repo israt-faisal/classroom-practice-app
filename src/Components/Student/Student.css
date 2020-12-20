@@ -1,0 +1,17 @@
+.student{
+    margin-left: 10px;
+    margin-right: 200px;
+    border: solid red 3px ;
+    padding: 5px 10px;
+    white-space: normal;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    border: 1px solid darkblue;
+    background-color: lightblue;
+    color: Orange;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
